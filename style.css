@@ -1,0 +1,39 @@
+:root {
+    --logo-color: #000;
+    --accent-color:#2196F3;
+    --text-color:#212121;
+    --add-text-color:#757575;
+    --title-color:#FFF;
+    --teeam-beground:#F5F4FA;
+    --footer-beground:#2F303A;
+    --footer-namber:rgba(255, 255, 255, 0.60);
+}
+
+.wedd {
+font-family: Roboto;
+font-size: 14px;
+font-weight:500 ;
+}
+
+
+h1 {
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+}
+
+.header {
+color: rgb(255, 255, 255);
+
+}
+
+.sec{
+    color: #2f303a;
+}
+
+.srf {
+width: 1600px;
+height: 600px;
+background-color: #2F303A;
+}
